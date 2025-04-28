@@ -1,12 +1,22 @@
 # 🚀 Welcome to my GitHub Profile!
 
-<h3 align="center">⚡ CraftyEngineer ⚡</h3>
+<h3 align="center">⚡ Ishaan Goel ⚡</h3>
 <p align="center">
   <em>AI & ML | Prompt Engineer | Web3 enthusiast</em>
 </p>
 
 ---
+### 🚀 About Me
 
+**Hi, I'm Ishaan!** A passionate developer building AI-powered tools to streamline coding workflows.
+
+- 🔭 **Currently working on:** GenAI and Machine Learning (Check Snippy and Diabetes Prediction)
+- 🌱 **Learning:** Agentic AI and Agentic Workflows
+- 👯 **Looking to collaborate on:** Projects
+- 💬 **Ask me about:** My sleep schedule
+- ⚡ **Fun fact:** I am on spotify 24 x 7
+
+  
 ## 👨‍💻 Tech Stack
 
 ### 🐍 Programming Languages
