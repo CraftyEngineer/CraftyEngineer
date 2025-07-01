@@ -2,7 +2,7 @@
 
 <h3 align="center">⚡ Ishaan Goel ⚡</h3>
 <p align="center">
-  <em>AI & ML | Prompt Engineer | Web3 enthusiast</em>
+  <em>AI & ML | Prompt Engineer | GenAI</em>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 **Hi, I'm Ishaan!** A passionate developer building AI-powered tools to streamline coding workflows.
 
-- 🔭 **Currently working on:** GenAI and Machine Learning (Check Snippy and Diabetes Prediction)
+- 🔭 **Currently working on:** GenAI and Machine Learning (Check SmartOps)
 - 🌱 **Learning:** Agentic AI and Agentic Workflows
 - 👯 **Looking to collaborate on:** Projects
 - 💬 **Ask me about:** My sleep schedule
@@ -85,11 +85,11 @@
 
 ## 🔥 Recent Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CraftyEngineer&repo=Snippy&theme=dark)](https://github.com/CraftyEngineer/Snippy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CraftyEngineer&repo=SmartOps&theme=dark)](https://github.com/CraftyEngineer/SmartOps)
 
 ## 📚 Currently...
 
-- 🔭 Exploring: Web3 development and AI agent systems
+- 🔭 Exploring: GenAI and AI agent systems
 - 📖 Reading: "Why Machines Learn" by Anil Ananthaswamy
 - 🎧 Listening: [My Coding Playlist](https://open.spotify.com/playlist/2BCoIb58uUcpEKVM0IfXFN?si=191956afd2df4d3b)
 - 🌱 Learning: Advanced prompt engineering techniques
